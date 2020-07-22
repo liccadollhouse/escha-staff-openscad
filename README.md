@@ -30,4 +30,4 @@ You will need to cut two holes in your pipe right in the center section where th
 
 The sphere does not have the "nubs" that are on the actual staff; I usually glue cotton balls to the sphere to get the effect.
 
-I am, of course, open to suggestions and improvements, as this was modeled relatively quickly to the point of being rushed.  I will definitely be making improvements to this model as time permits.  You may contact me through GitHub.
+I am, of course, open to suggestions and improvements.  I will definitely be making improvements to this model as time permits.  You may contact me through GitHub.
